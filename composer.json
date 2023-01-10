@@ -1,0 +1,17 @@
+{
+  "name": "oneami/alfabank-epay",
+  "description": "Equiring system from Alfa Bank",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Oneami\\AlfabankEpay\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Oneami",
+      "email": "alexgodun21@gmail.com"
+    }
+  ],
+  "require": {}
+}
